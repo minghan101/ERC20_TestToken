@@ -2,6 +2,8 @@
 
 TestToken is an ERC-20 token contract written in Solidity. It includes all standard ERC-20 functionality with additional features for **minting** and **burning** tokens through a decentralized **voting system**. This allows the community to propose changes to the total supply of the token (minting or burning) and vote on whether those changes should be executed.
 
+Contract Address: 0xc8450b1180921963ad0969e0820fc02705a2c9ee
+
 ## Table of Contents
 - [Features](#features)
 - [Contract Structure](#contract-structure)
